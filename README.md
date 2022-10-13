@@ -1,9 +1,8 @@
 # Krypt Web3.0 Blockchain Dapp
 
- 
-- Money made Simpler and More Efficient.
-- Send money to your Friends or Family sitting thousands of kms away.
-- Pay for your Shopping , groceries and rent.
+- A web 3.0 project build using React and Solidity smart contract to transfer ethereum over a decentralized blockchain.
+- Using MetaMask wallet for authentication and for performing transactions.
+- Once the transaction is performed user can view the details on the application.
 - Send and Receive crypto from Everywhere and Anywhere. 
 - **In just one Click!**
 - **KRYPT IT!**
